@@ -142,6 +142,14 @@
       <workItem from="1568598222654" duration="392000" />
       <workItem from="1571221691990" duration="2151000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次：提交稀疏数组sparseArray">
+      <created>1601028393819</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601028393819</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -160,6 +168,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次：提交稀疏数组sparseArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次：提交稀疏数组sparseArray" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601026905187">
@@ -182,5 +194,9 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601027902807" />
+    <state x="2472" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601028396297">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601028396297" />
   </component>
 </project>
