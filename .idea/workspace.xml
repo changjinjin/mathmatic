@@ -20,14 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5011d84-0979-45b1-90fa-3599f48f74e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/SparseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/test/NSparseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/test/SparseArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/password/GZBase64Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/merce/password/GZBase64Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/password/GetPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/merce/password/GetPass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/util/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +68,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571380716808" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -87,6 +84,7 @@
       <recent name="com.merce.password" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\STS\mathmatic\src\main\java\com\merce\study\sparsearray" />
       <recent name="D:\Project\inforefiner\Encrypt\bin" />
       <recent name="D:\Project\inforefiner\Encrypt\src\main\resources" />
       <recent name="D:\Project\inforefiner\Encrypt" />
@@ -94,11 +92,11 @@
   </component>
   <component name="RunManager" selected="Application.Base64Util">
     <configuration name="Base64Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.merce.password.Base64Util" />
-      <module name="Encrypt" />
+      <option name="MAIN_CLASS_NAME" value="com.merce.password1.Base64Util" />
+      <module name="mathmatic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.merce.password.*" />
+          <option name="PATTERN" value="com.merce.password1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="GetPass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.merce.password.GetPass" />
-      <module name="Encrypt" />
+      <option name="MAIN_CLASS_NAME" value="com.merce.password1.GetPass" />
+      <module name="mathmatic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.merce.password.*" />
+          <option name="PATTERN" value="com.merce.password1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,9 +174,13 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2410" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601027049475" />
-    <state x="2381" y="164" key="SettingsEditor" timestamp="1601026833811">
+    <state x="2677" y="221" key="RollbackChangesDialog" timestamp="1601027741927">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2381" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601026833811" />
+    <state x="2677" y="221" key="RollbackChangesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601027741927" />
+    <state x="2381" y="164" key="SettingsEditor" timestamp="1601027902807">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601027902807" />
   </component>
 </project>
