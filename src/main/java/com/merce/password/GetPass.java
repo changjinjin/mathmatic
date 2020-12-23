@@ -3,7 +3,6 @@ package com.merce.password;
 import org.jasypt.encryption.pbe.StandardPBEStringEncryptor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileFilter;
@@ -20,7 +19,6 @@ import java.util.Properties;
  */
 public class GetPass {
     private static Logger logger = LoggerFactory.getLogger(GetPass.class);
-
 
     public static void main(String[] args) {
         test();
