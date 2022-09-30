@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,17 +22,47 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5011d84-0979-45b1-90fa-3599f48f74e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/SparseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/test/NSparseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/test/SparseArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="f5011d84-0979-45b1-90fa-3599f48f74e9" name="Default Changelist" comment="第一次：提交稀疏数组sparseArray">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encrypt.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/Algorithm/src/com/atguigu/dynamic/KnapsackProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/merce/Algorithm/src/com/atguigu/dynamic/KnapsackProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/Algorithm/src/com/atguigu/kruskal/KruskalCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/merce/Algorithm/src/com/atguigu/kruskal/KruskalCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/AlgorithmTest/DynamicProgramming.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/AlgorithmTest/GreedyAlgorithmTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/AlgorithmTest/MyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/AlgorithmTest/OneDP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/AlgorithmTest/Two_DP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/graph/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding46.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding55.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding56.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding56_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding56_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding56_03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/JZ37.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/JZ4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/JZ42.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/JZ51_NOT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/JZ7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/SparseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/TestTrueDeiTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/test/NSparseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/test/SparseArrayTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,12 +74,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="E:\STS\sts_repository" />
-        <option name="mavenHome" value="C:/Program Files/apache-maven-3.5.3" />
-        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.5.3\conf\settings.xml" />
+        <option name="localRepository" value="F:\origin\STS1\STS\sts_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="F:\origin\STS1\apache-maven-3.8.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -58,23 +94,29 @@
   <component name="MavenRunner">
     <option name="jreName" value="jdk-1.8" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="1hzv79hnU6KprZ46e4ZkMdUZ0gf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571380716808" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -124,6 +166,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -141,6 +184,7 @@
       <workItem from="1568260338807" duration="606000" />
       <workItem from="1568598222654" duration="392000" />
       <workItem from="1571221691990" duration="2151000" />
+      <workItem from="1664509364029" duration="501000" />
     </task>
     <task id="LOCAL-00001" summary="第一次：提交稀疏数组sparseArray">
       <created>1601028393819</created>
@@ -156,7 +200,7 @@
     <option name="totallyTimeSpent" value="17126000" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -172,31 +216,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次：提交稀疏数组sparseArray" />
     <option name="LAST_COMMIT_MESSAGE" value="第一次：提交稀疏数组sparseArray" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601026905187">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601026905187" />
-    <state x="2660" y="274" key="FileChooserDialogImpl" timestamp="1601026775093">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601026775093" />
-    <state x="2410" y="174" key="Maven.ArtifactSearchDialog" timestamp="1601027049475">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2410" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601027049475" />
-    <state x="2677" y="221" key="RollbackChangesDialog" timestamp="1601027741927">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2677" y="221" key="RollbackChangesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601027741927" />
-    <state x="2381" y="164" key="SettingsEditor" timestamp="1601027902807">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2381" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601027902807" />
-    <state x="2472" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601028396297">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2472" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601028396297" />
   </component>
 </project>
