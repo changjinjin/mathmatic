@@ -22,44 +22,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5011d84-0979-45b1-90fa-3599f48f74e9" name="Default Changelist" comment="第一次：提交稀疏数组sparseArray">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+    <list default="true" id="f5011d84-0979-45b1-90fa-3599f48f74e9" name="Default Changelist" comment="装饰者对象，2022-09-30 19:05(国亲节)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/test/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/test/CustomComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/test/TestBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encrypt.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/Algorithm/src/com/atguigu/dynamic/KnapsackProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/merce/Algorithm/src/com/atguigu/dynamic/KnapsackProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/Algorithm/src/com/atguigu/kruskal/KruskalCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/merce/Algorithm/src/com/atguigu/kruskal/KruskalCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/AlgorithmTest/DynamicProgramming.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/AlgorithmTest/GreedyAlgorithmTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/AlgorithmTest/MyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/AlgorithmTest/OneDP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/AlgorithmTest/Two_DP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/graph/Graph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding36.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding46.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding55.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding56.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding56_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding56_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding56_03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/JZ37.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/JZ4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/JZ42.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/JZ51_NOT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/JZ7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/SparseArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/TestTrueDeiTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/test/NSparseArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/test/SparseArrayTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
@@ -67,12 +46,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -98,18 +86,22 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="1hzv79hnU6KprZ46e4ZkMdUZ0gf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571380716808" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/merce/woven/create/singleton" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -122,23 +114,24 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.merce.password" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.merce.password" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\origin\STS1\mathmatic\src\main\java\com\merce\woven\create\singleton" />
       <recent name="E:\STS\mathmatic\src\main\java\com\merce\study\sparsearray" />
       <recent name="D:\Project\inforefiner\Encrypt\bin" />
       <recent name="D:\Project\inforefiner\Encrypt\src\main\resources" />
       <recent name="D:\Project\inforefiner\Encrypt" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.merce.password" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Base64Util">
-    <configuration name="Base64Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.merce.password1.Base64Util" />
-      <module name="mathmatic" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.merce.woven.create.prototype.Client" />
+      <module name="Encrypt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.merce.password1.*" />
+          <option name="PATTERN" value="com.merce.woven.create.prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +139,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetPass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.merce.password1.GetPass" />
-      <module name="mathmatic" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.merce.woven.structure.decorator.Test" />
+      <module name="Encrypt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.merce.password1.*" />
+          <option name="PATTERN" value="com.merce.woven.structure.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAbstractFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.merce.woven.designpattern.abstractFactory.TestAbstractFactory" />
+      <module name="Encrypt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.merce.woven.designpattern.abstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAdapter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.merce.woven.structure.adapter.TestAdapter" />
+      <module name="Encrypt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.merce.woven.structure.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.merce.woven.create.builder.builder02.TestBuilder" />
+      <module name="Encrypt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.merce.woven.create.builder.builder02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,8 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Base64Util" />
-        <item itemvalue="Application.GetPass" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestAdapter" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.TestBuilder" />
+        <item itemvalue="Application.TestAbstractFactory" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +219,8 @@
       <workItem from="1568260338807" duration="606000" />
       <workItem from="1568598222654" duration="392000" />
       <workItem from="1571221691990" duration="2151000" />
-      <workItem from="1664509364029" duration="501000" />
+      <workItem from="1664509364029" duration="18905000" />
+      <workItem from="1665196989075" duration="952000" />
     </task>
     <task id="LOCAL-00001" summary="第一次：提交稀疏数组sparseArray">
       <created>1601028393819</created>
@@ -193,7 +229,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601028393819</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2022-09-30第一次修正">
+      <created>1664509947410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664509947410</updated>
+    </task>
+    <task id="LOCAL-00003" summary="创建型设计模式提交，2022-09-30 18:45(国亲节)">
+      <created>1664534760195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664534760195</updated>
+    </task>
+    <task id="LOCAL-00004" summary="装饰者对象，2022-09-30 19:05(国亲节)">
+      <created>1664535870811</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664535870811</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -214,7 +271,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="第一次：提交稀疏数组sparseArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次：提交稀疏数组sparseArray" />
+    <MESSAGE value="2022-09-30第一次修正" />
+    <MESSAGE value="创建型设计模式提交，2022-09-30 18:45(国亲节)" />
+    <MESSAGE value="装饰者对象，2022-09-30 19:05(国亲节)" />
+    <option name="LAST_COMMIT_MESSAGE" value="装饰者对象，2022-09-30 19:05(国亲节)" />
   </component>
 </project>
