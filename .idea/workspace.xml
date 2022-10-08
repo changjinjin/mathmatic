@@ -23,38 +23,92 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5011d84-0979-45b1-90fa-3599f48f74e9" name="Default Changelist" comment="第一次：提交稀疏数组sparseArray">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/DemoSpringBootApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/test/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/AbstractLoggerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/DebugLoggerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/ErrorLoggerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/InfoLoggerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/MyLoggerHandlerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/READMD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/READMD.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/TestChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/Baby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/Mother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/READMD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/READMD.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/springboot/EmailListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/springboot/OrderEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/springboot/SmsListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/springboot/TestOrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/Calling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/NotUsedStatePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/PhoneAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/PhoneState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/READMD.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/Shutdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/Standby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/TestState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/AliPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/JDPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/NoStrategyPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/PayContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/PayStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/READMD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/READMD.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/TestStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/WeiXinPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/template/BuildEarthHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/template/BuildHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/template/BuildStoneHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/template/READMD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/template/READMD.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/template/TestTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/template/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/DispenseDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/OptDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/READMD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/READMD.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/Receptionist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/RegDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/TestFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/TollDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/READMD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/READMD.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/cglibproxy/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/cglibproxy/LogProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/cglibproxy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/jdkProxy/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/jdkProxy/HelloImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/jdkProxy/LogInvocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/jdkProxy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/staticProxy/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/staticProxy/HelloImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/staticProxy/HelloLogProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/staticProxy/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encrypt.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/Algorithm/src/com/atguigu/dynamic/KnapsackProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/merce/Algorithm/src/com/atguigu/dynamic/KnapsackProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/Algorithm/src/com/atguigu/kruskal/KruskalCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/merce/Algorithm/src/com/atguigu/kruskal/KruskalCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/AlgorithmTest/DynamicProgramming.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/AlgorithmTest/GreedyAlgorithmTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/AlgorithmTest/MyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/AlgorithmTest/OneDP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/AlgorithmTest/Two_DP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/graph/Graph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding36.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding46.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding55.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding56.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding56_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding56_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding56_03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/queue/ListNode/Coding_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/JZ37.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/JZ4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/JZ42.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/JZ51_NOT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/JZ7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/SparseArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/TestTrueDeiTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/test/NSparseArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/study/sparsearray/test/SparseArrayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/password/AesUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/password/Base64Util.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/password/BaseAndAesUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/password/GZBase64Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/password/GetPass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/password/MyJDBCTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +121,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -80,9 +135,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="F:\origin\STS1\STS\sts_repository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.8.3" />
-        <option name="userSettingsFile" value="F:\origin\STS1\apache-maven-3.8.3\conf\settings.xml" />
+        <option name="localRepository" value="D:\TTS\maven-repository" />
+        <option name="mavenHome" value="D:\TTS\apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\TTS\apache-maven-3.5.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -98,6 +153,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="1hzv79hnU6KprZ46e4ZkMdUZ0gf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -109,7 +167,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571380716808" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../interview/interview" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -132,13 +190,13 @@
       <recent name="D:\Project\inforefiner\Encrypt" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Base64Util">
-    <configuration name="Base64Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.merce.password1.Base64Util" />
-      <module name="mathmatic" />
+  <component name="RunManager" selected="Application.TestState">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.merce.woven.behavior.observer.Test" />
+      <module name="Encrypt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.merce.password1.*" />
+          <option name="PATTERN" value="com.merce.woven.behavior.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +204,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetPass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.merce.password1.GetPass" />
-      <module name="mathmatic" />
+    <configuration name="TestChain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.merce.woven.behavior.chain.TestChain" />
+      <module name="Encrypt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.merce.password1.*" />
+          <option name="PATTERN" value="com.merce.woven.behavior.chain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.merce.woven.behavior.state.TestState" />
+      <module name="Encrypt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.merce.woven.behavior.state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStrategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.merce.woven.behavior.strategy.TestStrategy" />
+      <module name="Encrypt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.merce.woven.behavior.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTemplate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.merce.woven.behavior.template.TestTemplate" />
+      <module name="Encrypt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.merce.woven.behavior.template.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,8 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Base64Util" />
-        <item itemvalue="Application.GetPass" />
+        <item itemvalue="Application.TestState" />
+        <item itemvalue="Application.TestChain" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestTemplate" />
+        <item itemvalue="Application.TestStrategy" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +312,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次：提交稀疏数组sparseArray" />
