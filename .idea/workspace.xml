@@ -23,97 +23,161 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5011d84-0979-45b1-90fa-3599f48f74e9" name="Default Changelist" comment="第一次：提交稀疏数组sparseArray">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/DemoSpringBootApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/test/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/AbstractLoggerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/DebugLoggerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/ErrorLoggerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/InfoLoggerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/MyLoggerHandlerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/READMD.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/READMD.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/TestChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/chain/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/Baby.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/Mother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/READMD.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/READMD.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/springboot/EmailListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/springboot/OrderEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/springboot/SmsListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/observer/springboot/TestOrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/Calling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/NotUsedStatePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/PhoneAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/PhoneState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/READMD.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/Shutdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/Standby.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/state/TestState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/AliPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/JDPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/NoStrategyPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/PayContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/PayStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/READMD.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/READMD.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/TestStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/WeiXinPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/strategy/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/template/BuildEarthHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/template/BuildHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/template/BuildStoneHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/template/READMD.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/template/READMD.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/template/TestTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/behavior/template/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/DispenseDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/OptDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/READMD.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/READMD.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/Receptionist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/RegDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/TestFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/TollDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/facade/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/READMD.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/READMD.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/cglibproxy/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/cglibproxy/LogProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/cglibproxy/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/jdkProxy/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/jdkProxy/HelloImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/jdkProxy/LogInvocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/jdkProxy/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/staticProxy/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/staticProxy/HelloImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/staticProxy/HelloLogProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/merce/woven/structure/proxy/staticProxy/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/password/AesUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/password/Base64Util.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/password/BaseAndAesUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/password/GZBase64Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/password/GetPass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/password/MyJDBCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aesutil.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/base64_aes.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/encryptor.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/merce/test/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/merce/test/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Encrypt-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/Algorithm/src/com/atguigu/binarysearchnorecursion/BinarySearchNoRecur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/Algorithm/src/com/atguigu/dac/Hanoitower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/Algorithm/src/com/atguigu/greedy/GreedyAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/Algorithm/src/com/atguigu/kmp/KMPAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/Algorithm/src/com/atguigu/kmp/ViolenceMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/Algorithm/src/com/atguigu/prim/MGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/Algorithm/src/com/atguigu/prim/MinTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/Algorithm/src/com/atguigu/prim/PrimAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/DataStructures/src/com/atguigu/graph/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/chain/AbstractLoggerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/chain/DebugLoggerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/chain/ErrorLoggerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/chain/InfoLoggerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/chain/Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/chain/MyLoggerHandlerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/chain/TestChain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/observer/Baby.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/observer/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/observer/Mother.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/observer/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/observer/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/observer/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/observer/springboot/EmailListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/observer/springboot/OrderEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/observer/springboot/SmsListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/observer/springboot/TestOrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/state/Calling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/state/NotUsedStatePattern$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/state/NotUsedStatePattern$State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/state/NotUsedStatePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/state/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/state/PhoneAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/state/PhoneState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/state/Shutdown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/state/Standby.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/state/TestState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/strategy/AliPay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/strategy/JDPay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/strategy/NoStrategyPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/strategy/PayContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/strategy/PayStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/strategy/TestStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/strategy/WeiXinPay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/template/BuildEarthHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/template/BuildHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/template/BuildStoneHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/behavior/template/TestTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/builder/builder01/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/builder/builder01/ComputerBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/builder/builder01/ComputerDirector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/builder/builder01/DellComputerBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/builder/builder01/LenovoComputerBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/builder/builder01/TestBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/builder/builder02/CustomComputer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/builder/builder02/CustomComputer$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/builder/builder02/CustomComputer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/builder/builder02/TestBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/abstractFactory/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/abstractFactory/AudiCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/abstractFactory/AudiFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/abstractFactory/AudiPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/abstractFactory/BenzCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/abstractFactory/BenzFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/abstractFactory/BenzPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/abstractFactory/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/abstractFactory/CarEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/abstractFactory/CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/abstractFactory/FactoryEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/abstractFactory/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/abstractFactory/PhoneEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/abstractFactory/PhoneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/abstractFactory/TestAbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/factoryMethod/AudiCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/factoryMethod/AudiCarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/factoryMethod/BMWCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/factoryMethod/BMWCarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/factoryMethod/BenzCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/factoryMethod/BenzCarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/factoryMethod/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/factoryMethod/CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/factoryMethod/TestMethodFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/simpleFactory/AudiCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/simpleFactory/BMWCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/simpleFactory/BenzCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/simpleFactory/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/simpleFactory/CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/factory/simpleFactory/TestSimpleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/prototype/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/prototype/Prototype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/prototype/PrototypeCache$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/prototype/PrototypeCache$SingletonHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/prototype/PrototypeCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/singleton/CASSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/singleton/EnumSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/singleton/HungrySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/singleton/InnerClassSingleton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/singleton/InnerClassSingleton$SingletonHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/singleton/InnerClassSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/singleton/LazySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/singleton/LazySingleton1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/singleton/LazySingleton2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/create/singleton/LazySingleton3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/adapter/ArrayAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/adapter/ArrayOut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/adapter/ListOut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/adapter/TestAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/decorator/BatterCake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/decorator/Cake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/decorator/EggDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/decorator/KelpDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/decorator/OilCake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/decorator/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/decorator/VegetableDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/facade/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/facade/DispenseDepartment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/facade/OptDepartment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/facade/Receptionist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/facade/RegDepartment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/facade/TestFacade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/facade/TollDepartment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/proxy/cglibproxy/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/proxy/cglibproxy/LogProxyFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/proxy/cglibproxy/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/proxy/jdkProxy/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/proxy/jdkProxy/HelloImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/proxy/jdkProxy/LogInvocation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/proxy/jdkProxy/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/proxy/staticProxy/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/proxy/staticProxy/HelloImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/proxy/staticProxy/HelloLogProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/merce/woven/structure/proxy/staticProxy/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/my.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/encrypt-1.0.0.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
@@ -174,7 +238,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -190,7 +254,20 @@
       <recent name="D:\Project\inforefiner\Encrypt" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestState">
+  <component name="RunManager" selected="Application.MyTest">
+    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.merce.test.MyTest" />
+      <module name="Encrypt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.merce.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.merce.woven.behavior.observer.Test" />
       <module name="Encrypt" />
@@ -230,19 +307,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStrategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.merce.woven.behavior.strategy.TestStrategy" />
-      <module name="Encrypt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.merce.woven.behavior.strategy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestTemplate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.merce.woven.behavior.template.TestTemplate" />
       <module name="Encrypt" />
@@ -258,11 +322,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyTest" />
         <item itemvalue="Application.TestState" />
         <item itemvalue="Application.TestChain" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.TestTemplate" />
-        <item itemvalue="Application.TestStrategy" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +364,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665197114711</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit 2022-10-08 10:44 end of 1/10">
+      <created>1665198876470</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665198876470</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit 2022-10-19 03:00 第一次刷算法 【end 剑指 Offer 07. 重建二叉树】">
+      <created>1666119655742</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666119655742</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -324,6 +402,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次：提交稀疏数组sparseArray" />
     <MESSAGE value="commit 2022-10-08 10:44 end of 1/10" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 2022-10-08 10:44 end of 1/10" />
+    <MESSAGE value="commit 2022-10-19 03:00 第一次刷算法 【end 剑指 Offer 07. 重建二叉树】" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2022-10-19 03:00 第一次刷算法 【end 剑指 Offer 07. 重建二叉树】" />
   </component>
 </project>
