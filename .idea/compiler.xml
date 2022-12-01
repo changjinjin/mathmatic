@@ -11,5 +11,8 @@
         <module name="mathmatic" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Encrypt" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
